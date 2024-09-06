@@ -12,7 +12,7 @@ X-LIM Engine, short for Xeon-Learning-Intelligent-Methodical Engine is an openso
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any prerequisites or dependencies that need to be installed beforehand.
+step-by-step instructions on how to install and set up your project. prerequisites/dependencies that need to be installed beforehand.
 
 ```bash
 # Bash installation command
