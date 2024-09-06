@@ -62,7 +62,7 @@ MIT © Nexua
 - **Roadmap**: Outline future updates or features.
 - **Changelog**: Document changes in each version of your project.
 
-## Badges (Optional)
+## Badges
 
 Status and Versions
 
